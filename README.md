@@ -1,2 +1,2 @@
 # example-repo
-My test repo
+test
